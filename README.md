@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 Added by anu to test automation
 to check th test automation with heroku
+
+after pull have to add changes
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
